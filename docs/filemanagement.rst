@@ -178,8 +178,9 @@ Get files by complex queries
 We can get a file by name and by other constraints, usually a filename will be
 unique but we can have two equal names with different extensions, e.g.,
 *123.jpeg and 123.mp3*. So if you expect only one file add more constraints to
-the query, see `Query string examples <query_parameters>`_, as a result we get
-a list of `GoogleDriveFile`_ instances.
+the query, see
+`Query string examples <https://developers.google.com/workspace/drive/api/guides/search-files#examples>`_,
+as a result we get a list of `GoogleDriveFile`_ instances.
 
 .. code-block:: python
 
@@ -346,4 +347,3 @@ it you indicate that you acknowledge the risks of downloading potential malware.
 .. _`official documentation`: https://developers.google.com/workspace/drive/api/reference/rest/v2/files#resource-representations
 .. _`known`: https://productforums.google.com/forum/#!topic/docs/BJLimQDGtjQ
 .. _`abusive`: https://support.google.com/docs/answer/148505
-.. _`query_parameters`: https://developers.google.com/workspace/drive/api/guides/search-files#examples
