@@ -43,6 +43,6 @@ Sample code continues from above:
 
 .. _`GoogleDriveFile`: /PyDrive2/pydrive2/#pydrive2.files.GoogleDriveFile
 .. _`GoogleDriveFileList`: /PyDrive2/pydrive2/#pydrive2.files.GoogleDriveFileList
-.. _`parameters of Files.list()`: https://developers.google.com/drive/v2/reference/files/list#request
+.. _`parameters of Files.list()`: https://developers.google.com/workspace/drive/api/reference/rest/v2/files/list#request
 .. _`GetList()`: /PyDrive2/pydrive2/#pydrive2.apiattr.ApiResourceList.GetList
-.. _`search for files`: https://developers.google.com/drive/api/v2/search-files
+.. _`search for files`: https://developers.google.com/workspace/drive/api/guides/search-files
