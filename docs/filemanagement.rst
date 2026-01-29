@@ -345,5 +345,5 @@ it you indicate that you acknowledge the risks of downloading potential malware.
 .. _`GetContentFile(filename)`: /PyDrive2/pydrive2/#pydrive2.files.GoogleDriveFile.GetContentFile
 .. _`GetContentString()`: /PyDrive2/pydrive2/#pydrive2.files.GoogleDriveFile.GetContentString
 .. _`official documentation`: https://developers.google.com/workspace/drive/api/reference/rest/v2/files#resource-representations
-.. _`known`: https://productforums.google.com/forum/#!topic/docs/BJLimQDGtjQ
+.. _`known`: https://github.com/googleapis/google-api-nodejs-client/issues/2404
 .. _`abusive`: https://support.google.com/docs/answer/148505
