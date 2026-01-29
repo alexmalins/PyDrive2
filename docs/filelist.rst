@@ -8,7 +8,7 @@ Get all files which matches the query
 
 Create `GoogleDriveFileList`_ instance with `parameters of Files.list()`_ as ``dict``. 
 Call `GetList()`_ and you will get all files that matches your query as a list of `GoogleDriveFile`_.
-The syntax and possible option of the query ``q`` parameter can be found in `search for files` Google documentation.
+The syntax and possible option of the query ``q`` parameter can be found in `search for files`_ Google documentation.
 
 .. code-block:: python
 
